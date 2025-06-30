@@ -53,6 +53,6 @@ results/ └── list1.txt/ ├── Valid.txt      ✅ Successful logins ├
 ```bash
 pkg update -y && pkg install python git -y
 pip install requests colorama
-git clone https://github.com/yourrepo/alpha-hotmail-checker
-cd alpha-hotmail-checker
-python mail_checker.py
+git clone https://github.com/ALLAY-XD-20/HOT-MAIL-VALIDITY.git
+cd HOT-MAIL-VALIDITY
+python main.py
